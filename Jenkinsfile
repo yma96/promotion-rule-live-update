@@ -2,6 +2,7 @@ pipeline {
     agent any
     stages {
         stage('Rule Format Test'){
+            agent { label 'maven' }
             steps {
                 script {
                     try {
