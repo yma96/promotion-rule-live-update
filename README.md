@@ -11,7 +11,7 @@ This is used to test the whole process of promotion rule live update.
 <br><br>
 <b>Build test in Jenkins:</b>
 <br>
-https://jenkins-spmm-automation.apps.ocp4.prod.psi.redhat.com/job/Commonjava-manual/job/indy-promotion-rule-live-update-promote/
+OCP4 Jenkins job: indy-promotion-rule-live-update-promote
 <br><br>
 <b>Pipeline steps:</b>
 <br>
