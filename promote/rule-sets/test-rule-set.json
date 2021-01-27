@@ -1,0 +1,10 @@
+{
+  "name": "test-version-pattern-rule-set",
+  "storeKeyPattern": "group:target",
+  "ruleNames": [
+    "test-version-pattern.groovy"
+  ],
+  "validationParameters": {
+    "versionPattern": "\\d\\.\\d"
+  }
+}
